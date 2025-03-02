@@ -10,3 +10,9 @@
 AlgorithmicDeer/AlgorithmicDeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://MaanasGaur.pythonanywhere.com">
+  <img
+    src="https://MaanasGaur.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
