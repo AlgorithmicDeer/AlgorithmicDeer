@@ -77,6 +77,9 @@ if __name__ == '__main__':
 ## 🐍 GitHub Contribution 
 
 ![snake gif](https://github.com/AlgorithmicDeer/AlgorithmicDeer/blob/output/github-snake.svg)
+---
+
+---
 
 ## 📬 Connect with Me
 
@@ -87,5 +90,10 @@ if __name__ == '__main__':
 <a href="mailto:gaurmaanas@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
+<br>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk2dWxia3d5dWJnY3UxdGM3c3JkeXU3NTdtZ3I2OWdydXdnMmVzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ypUBDjLdHxjCREaJyH/giphy.gif" alt="Retro Hacker GIF" width="400">
+
 
 ---
