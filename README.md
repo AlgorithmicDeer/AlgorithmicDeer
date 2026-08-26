@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF1493&width=550&lines=Hi,+I+Am+Maanas+Gaur;Aapka+Swagat+Hai+🌸;Tuhada+Swagat+Hai+🌼;Mharo+Swagat+Aapne+🌺;Tamara+Swagat+Chhe+🌷;Nimma+Swagata+Ide+🌻&loop=true)](https://git.io/typing-svg) <span style="float: right; margin-left: 90px;"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" height="80"> <img src="https://media.giphy.com/media/BBNYBoYa5VwtO/giphy.gif" alt="Cat GIF" height="80"> </span>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF1493&width=550&lines=Hi,+I+Am+Maanas+Gaur;Aapka+Swagat+Hai+🌸;Mharo+Swagat+Aapne+🌺;Tamara+Swagat+Chhe+🌷;Nimma+Swagata+Ide+🌻&loop=true)](https://git.io/typing-svg) <span style="float: right; margin-left: 90px;"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" height="80"> <img src="https://media.giphy.com/media/BBNYBoYa5VwtO/giphy.gif" alt="Cat GIF" height="80"> </span>
 
 
 ---
@@ -39,11 +39,7 @@ public class DeveloperProfile {
             "Spring Security (JWT, OAuth2)",
             "RabbitMQ (Event-driven Architecture)", 
             "PostgreSQL", "pgvector (Vector Search)",
-            "REST APIs", "Docker", "Kubernetes"
-        ));
-        
-        skills.put("Frontend", Arrays.asList(
-            "React", "JavaScript", "HTML5", "CSS3"
+            "REST APIs", "Docker"
         ));
         
         skills.put("AI/ML", Arrays.asList(
